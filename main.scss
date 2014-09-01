@@ -8,4 +8,9 @@
 // Specific pages
 @import 'partials/contact-us';
 @import 'partials/our-people';
-@import 'partials/the-buying-process';
+
+.index__columns {
+  h1 {
+    color: $col-primary;
+  }
+}

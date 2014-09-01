@@ -1,26 +1,24 @@
 # Site settings
-title: Virtual Boardroom
-url: http://178.62.13.11/virtualboardroom
-# url: http://www.virtualboardroom.co.uk
+title: DotApprove
+url: http://178.62.13.11/dotapprove
+# url: http://www.dotapprove.co.uk
 description: >
-  Virtualboardroom&reg; is a board portal which allows you to securely
-  collaborate with others in the compilation of the board pack and then to
-  share that and other key board information with directors.
+  DotApprove is a powerful, easy to use, online tool that streamlines the
+  management, approval, compliance and storage of your promotions.
 
 # Contact
-email: info@virtualboardroom.co.uk
-telephone: +44 (0)20 7562 2247
-fax: +44 (0)20 7562 2203
+email: solutions@perivan.co.uk
+telephone: +44 (0)20 7562 2222
+fax: +44 (0)20 7562 2201
 address1: 21 Worship Street
 address2: London
 address3: EC2A 2DW
 
 # Navigation sections
 nav-sections:
-  - Who we are
-  - What we do
-  - How we do it
-  - Why VBR?
+  - About Us
+  - DotApprove
+  - Publishing Tools
 
 # Build settings
 markdown: kramdown
