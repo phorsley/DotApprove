@@ -2,9 +2,12 @@
 layout: page
 title: News & Views
 ---
-TODO: Everything
+<p>
+  TODO: Everything
+</p>
 {% for post in site.posts %}
-<a href="{{ site.url }}{{ post.url }}">
-  {{ post.title }}
-</a>
+<p>
+  {{ post.date | date_to_string }} -
+  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+</p>
 {% endfor %}
