@@ -24,7 +24,7 @@ nav-sections:
 
 # Build settings
 markdown: kramdown
-permalink: /news/:title
+permalink: /news/:year/:title
 
 exclude:
   - dev_serve.sh
