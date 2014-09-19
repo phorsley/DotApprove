@@ -26,9 +26,17 @@ layout: default
   </article>
   <article class="index__columns">
     <h1>News &amp; Views</h1>
-    <p>
-      TODO
-    </p>
+    <section class="index__latest-post">
+{% for post in site.posts limit: 1 %}
+        <h4>
+          <a href="{{ site.url }}{{ page.url}}">{{ post.title }}</a>...
+        </h4>
+        <p>
+          {{ post.excerpt | strip_html }}
+          <a href="{{ site.url }}{{ page.url}}">Read more</a>...
+        </p>
+{% endfor 1 %}
+    </section>
     <h3>Twitter</h3>
     <p>
       TODO
