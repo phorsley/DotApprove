@@ -8,7 +8,7 @@ guidance from the FCA on the use of social media will have left disappointed.
 As one attendee Tweeted, “Not sure I expected clarity, but I didn’t expect
 muddled. Not clear if guidance is coming and if it is, who’s had a say? #smlf
 event”.
-
+<!--more-->
 Although we didn’t get clarity the event was still a fascinating insight into
 how financial services firms are (or are not) using social media. In a show of
 hands, the majority of the audience see social media as an opportunity but only

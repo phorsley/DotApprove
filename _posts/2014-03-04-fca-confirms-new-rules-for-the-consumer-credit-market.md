@@ -9,7 +9,7 @@ will from now on be subjected to an unprecedented level of regulatory
 supervision. The new rules give the FCA power to ban misleading adverts and
 will force companies to work within tight rules aimed at treating their
 customers fairly.
-
+<!--more-->
 The FCA promises to take a tougher approach to consumer credit than the
 previous Office of Fair Trading (OFT) regime. The FCA differs from the OFT in
 that it has:

@@ -8,7 +8,7 @@ Authority (FCA) is getting serious.  Perhaps keen to demonstrate that they will
 be taking a more robust approach than their predecessor, the Financial Services
 Authority, the FCA has not been afraid to challenge financial promotions that
 fall short of their strict requirements. 
-
+<!--more-->
 A recent survey  by compliance consultants Bovill showed that, in the 12 months
 to June 2013, the FCA forced firms to amend or withdraw 204 financial
 promotions.  Bovill cites this as evidence that firms are struggling to ensure

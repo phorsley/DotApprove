@@ -8,7 +8,7 @@ project management and approval software. Clients can now check and approve
 their twitter messages prior to posting to ensure compliance and protect their
 brand values. It's easy to use, quick to install and is available on a monthly
 user rate.
-
+<!--more-->
 Here are some of the features and benefits:
 
 * Manage team access to your twitter accounts and control individual

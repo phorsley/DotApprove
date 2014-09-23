@@ -10,7 +10,7 @@ The event is ComPeer’s annual presentation of its Wealth Management
 Benchmarking Study, which examines the revenues, profits, assets and the issues
 driving business performance of the key players in the UK Wealth Management
 Industry.
-
+<!--more-->
 As well as the report’s findings, the event will also feature presentations
 from the Wealth Management Association (WMA), the British Banking Association
 (BBA) and the City of London Police, speaking on cybercrime.

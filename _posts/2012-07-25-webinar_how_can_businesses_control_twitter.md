@@ -7,7 +7,7 @@ We had such a great response and feedback to our first webinar so we have
 decided to run two more!
 
 Register for 2pm on 2nd August or 11am on 7th August.
-
+<!--more-->
 In this 30 minute webinar, we will cover:
 
 * Controlling access - how to manage which employees can post messages to your

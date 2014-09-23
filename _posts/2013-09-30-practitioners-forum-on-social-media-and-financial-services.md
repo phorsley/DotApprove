@@ -8,7 +8,7 @@ on social media & financial services managed to squeeze a lot into one day.
 With talks and round tables from marketing, PR and social media big hitters to
 compliance consultants, lawyers and a keynote speech by Richard Lawes from the
 Financial Conduct Authority (FCA).
-
+<!--more-->
 The morning started with a panel of social media experts from Barclaycard,
 First Direct and CME Group discussing the lofty question: "How are financial
 services firms taking social media strategy to the next level of maturity"?

@@ -12,7 +12,7 @@ We’d like to share with you some insights from the day that are pertinent to
 compliance and risk professionals. We’ve also been given permission by ComPeer
 to highlight the key findings from their research that have an impact on
 compliance.
-
+<!--more-->
 Among the findings was stark evidence that the cost of compliance for wealth
 managers continues to grow.
 

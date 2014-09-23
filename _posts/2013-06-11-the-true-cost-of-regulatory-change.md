@@ -9,7 +9,7 @@ increased. But do these levies reflect the true cost of regulatory change to
 firms and investors, or could it potentially be much more than that? And is
 there anything that firms can do to limit the impact of these increased costs
 on their businesses?
-
+<!--more-->
 First, let’s look at the facts. Financial firms are asked to contribute to
 external regulatory costs in three ways: a fee to cover the FCA/PRA annual
 funding requirement, a levy to pay for the Financial Ombudsman Service (FOS)

@@ -11,7 +11,7 @@ Marketing materials – from publications, to adverts, to digital marketing – 
 classed as ‘financial promotions’, and as such are subject to rigorous
 regulatory guidance by the Financial Conduct Authority (FCA), the body that
 regulates the financial services industry.
-
+<!--more-->
 Having to get marketing materials signed off, not just by management but also
 by your Compliance team, can be an eye-opener, lengthening the production
 process and adding to the layers of approval that marketing collateral needs to

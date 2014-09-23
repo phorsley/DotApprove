@@ -7,8 +7,8 @@ The countdown to the transfer of consumer credit regulation is gathering pace.
 FCA Chief Operating Officer, Leslie Titcomb announced: "Over 31,000 firms have
 already registered for interim permission placing us well ahead of schedule as
 we move closer to 1 April, when the FCA takes over the regulation."<sup>1</sup>
-
- The change will significantly impact:
+<!--more-->
+The change will significantly impact:
 
 * Hire purchase companies
 * Credit card issuers

@@ -22,6 +22,8 @@ nav-sections:
   - DotApprove
   - Publishing Tools
 
+excerpt_separator: <!--more-->
+
 # Build settings
 markdown: kramdown
 permalink: /news/:year/:title

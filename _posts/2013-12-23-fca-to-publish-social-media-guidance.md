@@ -10,7 +10,7 @@ hopefully provide some much needed clarity and social media best practices.
 
 An FCA spokesman said the guidance had not stemmed from any particular concern
 but was in response to increased questions from firms.
-
+<!--more-->
 He said: ‘We are developing social media guidance in response to the financial
 services industry but also because we are fully aware about the increased use
 of social media.’

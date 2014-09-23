@@ -7,7 +7,7 @@ The Financial Conduct Authority (FCA) was due to publish new regulatory
 guidance on the use of social media in the first quarter of 2014. So far, this
 has yet to be issued – but this hasn’t stopped (or has perhaps increased!)
 speculation over what it might contain.
-
+<!--more-->
 When they took over from the Financial Services Authority (FSA) in July 2013,
 the FCA stated that they had no plans to update the FSA’s 2010
 guidance<sup>1</sup> on social media. This guidance stated that any

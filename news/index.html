@@ -3,11 +3,19 @@ layout: page
 title: News & Views
 ---
 <p>
-  TODO: Everything
+<a href="{{ site.url }}/feed.xml">RSS Feed</a>
 </p>
 {% for post in site.posts %}
-<p>
-  {{ post.date | date_to_string }} -
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-</p>
+<section class="post-summary">
+  <p class="post-summary__date">
+    {{ post.date | date: "%A, %d %B %Y" }}
+  </p>
+  <h3 class="post-summary__title">
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+  </h3>
+  <p class="post-summary__author">Written by {{ post.author }}</p>
+  <p class="post-summary__except">{{ post.excerpt }}</p>
+  <a class="post-summary__read-more" href="{{ site.url }}{{ post.url }}">
+    Read more…</a>
+</section>
 {% endfor %}

@@ -11,7 +11,7 @@ inviting us all to send our comments by email to
 {% include email.html email='Richard.Lawes@fca.org.uk' %} by 6th November.
 After this, the FCA will take on board feedback received to fine-tune and
 finalise their approach.
-
+<!--more-->
 In their announcement of the consultation, the FCA acknowledges the fact that
 social media is becoming increasingly prevalent as a means of communicating
 with customers and potential customers – in financial services as in every area

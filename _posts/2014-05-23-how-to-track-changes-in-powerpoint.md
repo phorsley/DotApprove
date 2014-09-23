@@ -6,7 +6,7 @@ author: Steve Coleman
 Did you know that you can add comments and compare slides in PowerPoint? When
 we ask this question at our training sessions, 9 times out of 10 the response
 is “I didn’t know you could do that”.
-
+<!--more-->
 The concept is similar to tracking changes in Word or adding sticky notes to a
 PDF. It’s a great tool for reviewing and approving presentations, allowing you
 to collaborate with colleagues and mark up content changes – or add design

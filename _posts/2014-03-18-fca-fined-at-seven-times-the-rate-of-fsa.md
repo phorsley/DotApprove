@@ -10,7 +10,7 @@ financial sector the FCA has issued £408 million in fines. As a comparison, The
 FSA averaged £68m per year in its eleven years of existence. Regulatory experts
 are warning the FCA will continue levying record penalties and hit firms with
 much bigger “American-style” fines.
-
+<!--more-->
 Fines since 2004
 
 One thing that hasn't changed is the reason for the fines: client
