@@ -2,10 +2,11 @@
 layout: page
 title: News & Views
 ---
-<p>
 <a href="{{ site.url }}/feed.xml">RSS Feed</a>
-</p>
-{% for post in site.posts %}
+<nav class="posts__pagination-links">
+  {% include paginate-links.html %}
+</nav>
+{% for post in paginator.posts %}
 <section class="post-summary">
   <p class="post-summary__date">
     {{ post.date | date: "%A, %d %B %Y" }}
@@ -19,3 +20,6 @@ title: News & Views
     Read more…</a>
 </section>
 {% endfor %}
+<nav class="posts__pagination-links">
+  {% include paginate-links.html %}
+</nav>

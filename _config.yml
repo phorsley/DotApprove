@@ -24,6 +24,9 @@ nav-sections:
 
 excerpt_separator: <!--more-->
 
+paginate: 10
+paginate_path: "news/:num"
+
 # Build settings
 markdown: kramdown
 permalink: /news/:year/:title

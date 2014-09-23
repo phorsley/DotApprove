@@ -1,0 +1,23 @@
+<nav class="pagination-links">
+  {% if paginator.previous_page %}
+  <a href="{{ site.url }}/news/index.html">First</a>
+    {% if paginator.page == 2 %}
+  <a href="{{ site.url }}/news/index.html">Prev</a>
+    {% else %}
+  <a href="{{ site.url }}/news/{{ paginator.previous_page }}">Prev</a>
+    {% endif %}
+  {% else %}
+    <span class="previous">First</span>
+    <span class="previous">Prev</span>
+  {% endif %}
+  <span class="page_number">
+    {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+  <a href="{{ site.url }}/news/{{ paginator.next_page }}">Next</a>
+  <a href="{{ site.url }}/news/{{ paginator.total_pages }}">Last</a>
+  {% else %}
+    <span class="next">Next</span>
+    <span class="last">Last</span>
+  {% endif %}
+</nav>
