@@ -58,7 +58,7 @@ module Jekyll
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
-{% for post in page.posts %}{% include post-summary.html %}
+{% for post in page.posts reversed %}{% include post-summary.html %}
 {% endfor %}
       EOS
       self.data = {
