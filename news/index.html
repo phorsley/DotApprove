@@ -2,24 +2,15 @@
 layout: page
 title: News & Views
 ---
-<a href="{{ site.url }}/feed.xml">RSS Feed</a>
-<nav class="posts__pagination-links">
-  {% include paginate-links.html %}
-</nav>
-{% for post in paginator.posts %}
-<section class="post-summary">
-  <p class="post-summary__date">
-    {{ post.date | date: "%A, %d %B %Y" }}
-  </p>
-  <h3 class="post-summary__title">
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </h3>
-  <p class="post-summary__author">Written by {{ post.author }}</p>
-  <p class="post-summary__except">{{ post.excerpt }}</p>
-  <a class="post-summary__read-more" href="{{ site.url }}{{ post.url }}">
-    Read more…</a>
+<section class="posts-list">
+  <nav class="posts__pagination-links">
+    {% include paginate-links.html %}
+  </nav>
+  {% for post in paginator.posts %}
+  {% include post-summary.html %}
+  {% endfor %}
+  <nav class="posts__pagination-links">
+    {% include paginate-links.html %}
+  </nav>
 </section>
-{% endfor %}
-<nav class="posts__pagination-links">
-  {% include paginate-links.html %}
-</nav>
+{% include blog-months-list.html %}

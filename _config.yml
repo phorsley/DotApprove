@@ -44,3 +44,6 @@ sass:
 
 gems:
   - jekyll-sitemap
+
+monthly_archive:
+  path: news
