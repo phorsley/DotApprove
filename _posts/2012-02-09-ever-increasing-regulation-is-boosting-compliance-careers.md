@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ever-increasing regulation is boosting compliance careers
-author: Daniella
+author: Steve Coleman
 ---
 <p></p>
 Prior to the financial crisis the term compliance was taboo when trying to get

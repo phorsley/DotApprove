@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Company Secretaries Conference 2012
-author: Daniella
+author: Steve Coleman
 ---
 Come and visit us at the Company Secretaries Conference 2012 being held on the
 27th September at the [Business Design

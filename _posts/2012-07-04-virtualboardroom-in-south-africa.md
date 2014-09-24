@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VirtualBoardroom in South Africa
-author: Daniella
+author: Steve Coleman
 ---
 The VirtualBoardroom World tour has now reached South Africa following trips to
 Switzerland, Holland and Cayman Isles earlier this year. Robin Bishop and

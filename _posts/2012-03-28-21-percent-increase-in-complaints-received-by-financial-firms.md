@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 21 percent increase in complaints received by financial firms
-author: Daniella
+author: Steve Coleman
 ---
 <p></p>
 The FSA’s latest [complaints

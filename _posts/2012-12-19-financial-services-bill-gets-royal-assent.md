@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Financial Services Bill gets Royal Assent
-author: Daniella
+author: Steve Coleman
 ---
 The Financial Services Bill has today been given Royal Assent and will now
 become an Act of Parliament. The Act will come into force on 1 April and will

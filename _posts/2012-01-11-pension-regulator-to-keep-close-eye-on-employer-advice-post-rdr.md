@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FSA publishes guide for advisers to track RDR progress
-author: Daniella
+author: Steve Coleman
 ---
 <p></p>
 The Pensions Regulator is examining whether the RDR makes IFAs less attractive

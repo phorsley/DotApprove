@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FSA publishes guide for advisers to track RDR progress
-author: Daniella
+author: Steve Coleman
 ---
 <p></p>
 The FSA has published a guide to help advisers track their progress in meeting

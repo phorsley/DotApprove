@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Controlling Twitter
-author: Daniella
+author: Steve Coleman
 ---
 We’re excited to announce that we have integrated twitter into DotApprove, our
 project management and approval software. Clients can now check and approve

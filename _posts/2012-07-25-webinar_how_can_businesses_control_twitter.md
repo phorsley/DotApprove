@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Webinar&#58; How can businesses control twitter?
-author: Daniella
+author: Steve Coleman
 ---
 We had such a great response and feedback to our first webinar so we have
 decided to run two more!
