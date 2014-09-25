@@ -9,19 +9,29 @@ layout: default
   <article class="index__columns">
     <h1>DotApprove</h1>
     <p>
-      DotApprove is a powerful, easy to use, online tool that streamlines the management, approval, compliance and storage of your promotions.
+      DotApprove is a powerful, easy to use, online tool that streamlines the
+      management, approval, compliance and storage of your promotions.
     </p>
     <p>
-      By connecting your marketing, PR, sales and compliance teams, DotApprove improves collaboration, consistency and significantly reduces the risk of oversights and errors. With an audit trail and archive of all comments, changes and approval signatures to help you comply with internal rules and external regulations.
+      By connecting your marketing, PR, sales and compliance teams, DotApprove
+      improves collaboration, consistency and significantly reduces the risk of
+      oversights and errors. With an audit trail and archive of all comments,
+      changes and approval signatures to help you comply with internal rules
+      and external regulations.
     </p>
   </article>
   <article class="index__columns">
     <h1>Publishing Tools</h1>
     <p>
-      DotApprove Publishing Tools provide the solution for quickly producing on brand and compliant content from Twitter messages to Factsheets and Presentations.
+      DotApprove Publishing Tools provide the solution for quickly producing on
+      brand and compliant content from Twitter messages to Factsheets and
+      Presentations.
     </p>
     <p>
-      We automate processes so that you can get information to market faster. These tools work with the DotApprove portal enabling you to streamline the management and approval of content, with the additional benefit of an archive and audit trail to stay compliant.
+      We automate processes so that you can get information to market faster.
+      These tools work with the DotApprove portal enabling you to streamline
+      the management and approval of content, with the additional benefit of an
+      archive and audit trail to stay compliant.
     </p>
   </article>
   <article class="index__columns">
@@ -32,14 +42,12 @@ layout: default
           <a href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
         </h4>
         <p>
-          {{ post.excerpt | strip_html }}
-          <a href="{{ site.url }}{{ post.url}}">Read more...</a>
+          {{ post.content | strip_html | truncatewords: 10 }}
+          <a href="{{ site.url }}{{ post.url}}">Read more</a>
         </p>
 {% endfor 1 %}
     </section>
     <h3>Twitter</h3>
-    <p>
-      TODO
-    </p>
+    {% include twitter-feed.html %}
   </article>
 </section>
