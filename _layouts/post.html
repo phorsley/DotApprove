@@ -2,6 +2,14 @@
 layout: default
 ---
 <article class="post__content">
+  <span class="post__date">{{ page.date | date: "%A, %d %B %Y" }}</span>
   <h1 class="post__title">{{ page.title }}</h1>
+  <p class="post__author">Written by {{ page.author }}</p>
+  <aside class="post__share-buttons">
+    {% include share-linkedin.html %}
+    {% include share-twitter.html %}
+    {% include share-email.html %}
+  </aside>
   {{ content }}
 </article>
+{% include blog-months-list.html %}
