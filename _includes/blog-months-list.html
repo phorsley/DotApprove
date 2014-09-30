@@ -1,13 +1,8 @@
 <nav class="blog-months-list">
   <ul>
-{% for post in site.posts %}
-  {% capture currentmonth %}{{ post.date | date: "%B %Y" }}{% endcapture %}
-  {% capture currenturl %}{{ post.date | date: "%Y/%m/" }}{% endcapture %}
-  {% if currentmonth != month %}
+{% for post in site.posts %}{% capture currentmonth %}{{ post.date | date: "%B %Y" }}{% endcapture %}{% capture currenturl %}{{ post.date | date: "%Y/%m/" }}{% endcapture %}{% if currentmonth != month %}
     <li><a href="{{ site.url }}/news/{{ currenturl }}">{{ currentmonth }}</a></li>
-    {% capture month %}{{ currentmonth }}{% endcapture %}
-  {% endif %}
-{% endfor %}
+{% capture month %}{{ currentmonth }}{% endcapture %}{% endif %}{% endfor %}
   </ul>
 <a href="{{ site.url }}/feed.xml">RSS Feed</a>
 </nav>
