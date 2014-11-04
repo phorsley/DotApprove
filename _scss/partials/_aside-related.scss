@@ -1,0 +1,37 @@
+.page__aside__related {
+  @include clearfix();
+
+  background-color: $col-nav-dropdown;
+  border-radius: $corner-radius;
+  margin-top: 1em;
+  max-width: 680px;
+  padding: 1em 2em;
+
+  h2 {
+    text-align: center;
+  }
+
+  p {
+    font-size: 1.1em;
+  }
+
+  * {
+    color: #fff;
+  }
+
+  img {
+    float: left;
+  }
+
+  .page__aside__dl-button {
+    background-color: $col-primary;
+    border-radius: $corner-radius;
+    float: right;
+    font-size: 1.2em;
+    padding: .3em .8em;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
