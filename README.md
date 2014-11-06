@@ -1,6 +1,5 @@
 ## TODO
 
-* Home page mural bit
 * Format testimonials
 * Add cert link to Policies & Env
 * Stepped instructions in DA section pages
