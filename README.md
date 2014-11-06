@@ -8,6 +8,7 @@
 * Add Perivan cross links mobile nav section
 * Clean up images where possible (as design have not produced anything yet)
 * Add page selection buttons to revolving sections
+* Add disclaimer to all blog posts
 
 ## Managing the `_scss/theme` submodule
 
