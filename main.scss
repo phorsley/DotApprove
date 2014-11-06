@@ -9,13 +9,10 @@
 @import 'partials/contact-us';
 @import 'partials/our-people';
 @import 'partials/aside-related';
+@import 'partials/index-mural';
 
 .index__columns {
   h1 {
     color: $col-primary;
   }
-}
-
-.index__mural {
-  background-image: none;
 }
