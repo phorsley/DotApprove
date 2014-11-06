@@ -19,22 +19,3 @@
 .index__mural {
   background-image: none;
 }
-
-.page__aside__media {
-  float: right;
-  margin-left: 2.2em;
-  max-width: 100%;
-  width: 500px;
-
-  @include media($break-mid) {
-    float: none;
-    margin: 0;
-    width: 100%;
-
-    img,
-    video {
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-}
