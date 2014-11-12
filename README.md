@@ -1,6 +1,5 @@
 ## TODO
 
-* Format testimonials
 * Stepped instructions in DA section pages
 * Add page selection buttons to revolving sections
 
