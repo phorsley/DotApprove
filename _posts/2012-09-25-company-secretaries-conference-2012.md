@@ -11,7 +11,7 @@ software products including:
 
 Board portals - Do you want to simplify your corporate governance? We will be
 showcasing the latest release of
-[VirtualBoardroom®](http://www.virtualboardroom.co.uk/), our board portal
+[Virtualboardroom®](http://www.virtualboardroom.co.uk/), our board portal
 software including new iPad features.
 <!--more-->
 Social media governance - Are you struggling with compliance controls for
