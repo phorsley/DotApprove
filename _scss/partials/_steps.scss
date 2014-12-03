@@ -1,0 +1,114 @@
+$arrow-size: 10px;
+$steps-break: 550px;
+
+.steps {
+  @include clearfix();
+  margin-top: 20px;
+}
+
+.steps__step {
+  @include clearfix();
+
+  display: table;
+  margin-top: 25px;
+  max-width: $page-content-max-width - 20px;
+  vertical-align: center;
+  width: 100%;
+
+  img {
+    display: block;
+    margin: 10px auto;
+    max-height: 250px;
+    max-width: 80%;
+  }
+}
+
+.steps__text {
+  @include colored-block($col-nav-dropdown);
+
+  margin-top: $arrow-size + 10px;
+  position: relative;
+
+  &:before {
+    border-bottom: $arrow-size solid $col-nav-dropdown;
+    border-left: $arrow-size solid transparent;
+    border-right: $arrow-size solid transparent;
+    bottom: 100%;
+    content: '';
+    height: 0;
+    position: absolute;
+    width: 0;
+
+    @media (max-width: $steps-break) {
+      left: calc(50% - #{$arrow-size});
+    }
+  }
+
+  p {
+    margin: .5em 0;
+  }
+}
+
+@media (min-width: $steps-break + 1) {
+  .steps {
+    img {
+      margin: 0;
+      width: 200px;
+    }
+
+    div {
+      display: table-cell;
+      height: 200px;
+      text-align: center;
+      vertical-align: middle;
+      width: calc(100% - 200px);
+    }
+  }
+
+  .steps__text {
+    display: inline-block;
+    margin: 0;
+
+    &:before {
+      border-bottom: $arrow-size solid transparent;
+      border-top: $arrow-size solid transparent;
+      top: calc(50% - #{$arrow-size});
+    }
+  }
+
+  .steps__step:nth-child(odd) {
+    img {
+      float: left;
+    }
+
+    div {
+      float: right;
+      padding-left: $arrow-size + 10px;
+    }
+
+    .steps__text {
+      &:before {
+        border-right: $arrow-size solid $col-nav-dropdown;
+        right: 100%;
+      }
+    }
+  }
+
+  .steps__step:nth-child(even) {
+    img {
+      float: right;
+    }
+
+    div {
+      float: left;
+      padding-right: $arrow-size + 10px;
+    }
+
+    .steps__text {
+      &:before {
+        border-left: $arrow-size solid $col-nav-dropdown;
+        left: 100%;
+      }
+    }
+  }
+}
