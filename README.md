@@ -1,6 +1,7 @@
 ## Adding a new blog post
 
 Posts are kept within the `_posts` directory. To add a new post...
+
 1. Add a new post file. Don't forget the `<!--more-->` tag to indicate where
    the front page preview should end.
 2. Preview the changes offline by running the server. Once running it will
