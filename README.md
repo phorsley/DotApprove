@@ -1,3 +1,9 @@
+## Cloning this directory
+
+    git clone --recursive git://github.com/PerivanSolutions/DotApprove.git
+
+We are using submodules, so the `--recursive` flag is needed
+
 ## Adding a new blog post
 
 Posts are kept within the `_posts` directory. To add a new post...
@@ -25,6 +31,3 @@ Updating
 
     git submodule foreach git pull
 
-Cloning
-
-    git clone --recursive git://github.com/foo/bar.git
