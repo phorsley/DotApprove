@@ -1,6 +1,10 @@
 ## Cloning this directory
 
-    git clone --recursive git://github.com/PerivanSolutions/DotApprove.git
+    git clone --recursive git@github.com:PerivanSolutions/DotApprove.git
+
+Or, if you prefer HTTP over SSH
+
+    git clone --recursive https://github.com/PerivanSolutions/DotApprove.git
 
 We are using submodules, so the `--recursive` flag is needed
 
@@ -14,7 +18,7 @@ Posts are kept within the `_posts` directory. To add a new post...
    `cd /PATH/TO/PROJECT/DIR` followed by `./dev_serve.sh`
 3. Commit the changes with git.
 4. Push to github. (PerivanSolutions/DotApprove)
-5. log into the webserve via ssh. `ssh perivan.co.uk`
+5. log into the webserve via ssh. `ssh louis@perivan.co.uk`
 6. Navigrate to the websites directory. `cd websites`
 7. Sync changes from git and rebuild the site. `./sync_and_rebuild.rb`
 
