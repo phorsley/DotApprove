@@ -8,8 +8,7 @@ We are using submodules, so the `--recursive` flag is needed
 
 Posts are kept within the `_posts` directory. To add a new post...
 
-1. Add a new post file. Don't forget the `<!--more-->` tag to indicate where
-   the front page preview should end.
+1. Add a new post file.
 2. Preview the changes offline by running the server. Once running it will
    automatically update when you save a file, so no need to restart it.
    `cd /PATH/TO/PROJECT/DIR` followed by `./dev_serve.sh`
