@@ -4,7 +4,7 @@ title: Checking and approving PowerPoint presentations
 author: Steve Coleman
 ---
 When we speak to marketing or compliance clients, a few themes pop up again and again. One we hear probably more than any other is the frustration at the amount of time they spend checking and approving PowerPoint presentations (in addition to reviewing all their other marketing and sales materials).  This is particularly true in the regulated financial services sector, where [financial promotions]({{ site.url }}/news/2014/fca-clamps-down-on-financial-promotions/) need to show evidence of an approvals and sign off process.
-
+<!--more-->
 One client told us that she checks over 1000 presentations a year, and every day opens presentations knowing she has probably already approved the majority of the slides – but has to check them again just in case a small change has been made.
 
 We have found that many firms waste a huge amount of time in this way, either identifying which slides need to be approved and/or rechecking the same slides over again as there is no record of what has been approved previously.

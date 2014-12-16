@@ -10,7 +10,7 @@ New research from regulatory consultants
 [Bovill](http://www.bovill.com/news-releases/61-percent-rise-in-financial-promotions-withdrawn-or-amended-by-FCA-in-last-year.aspx)
 \* shows that there has been a 61% increase in the number of financial
 promotions withdrawn or amended by the FCA in the twelve months to June 2014.
-
+<!--more-->
 Financial services firms were asked to withdraw or change a total of 328
 financial promotions in the 12 months to June – almost one a day, up from 208
 in 2012/13.
