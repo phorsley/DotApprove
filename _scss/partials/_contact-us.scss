@@ -1,10 +1,13 @@
 .contact__map,
 .contact__details {
   @include span-columns(6);
-  margin-bottom: 1em;
 
   @include media($break-mid) {
     @include span-columns(12);
+  }
+
+  table {
+    margin: 10px 0;
   }
 }
 
