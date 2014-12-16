@@ -3,7 +3,7 @@ layout: post
 title: Checking and approving PowerPoint presentations 
 author: Steve Coleman
 ---
-When we speak to marketing or compliance clients, a few themes pop up again and again. One we hear probably more than any other is the frustration at the amount of time they spend checking and approving PowerPoint presentations (in addition to reviewing all their other marketing and sales materials).  This is particularly true in the regulated financial services sector, where financial promotions need to show evidence of an approvals and sign off process.
+When we speak to marketing or compliance clients, a few themes pop up again and again. One we hear probably more than any other is the frustration at the amount of time they spend checking and approving PowerPoint presentations (in addition to reviewing all their other marketing and sales materials).  This is particularly true in the regulated financial services sector, where [financial promotions]({{ site.url }}/news/2014/fca-clamps-down-on-financial-promotions/) need to show evidence of an approvals and sign off process.
 
 One client told us that she checks over 1000 presentations a year, and every day opens presentations knowing she has probably already approved the majority of the slides – but has to check them again just in case a small change has been made.
 
@@ -13,7 +13,7 @@ There aren’t many marketing or compliance professionals who would choose to sp
 
 ### RightSlide presentation management software enhancement
 
-We’re delighted to announce an enhancement to our RightSlide presentation management software that relieves this burden. You can now add “Draft” watermarks to new or edited slides making it easy to identify content that requires approval and prevent non-approved slides being sneaked into presentations.
+We’re delighted to announce an enhancement to our [RightSlide presentation management software]({{ site.url }}/publishing-tools/rightslide.html) that relieves this burden. You can now add “Draft” watermarks to new or edited slides making it easy to identify content that requires approval and prevent non-approved slides being sneaked into presentations.
 
 Each slide in RightSlide now can be created in one of four ways:
 
@@ -28,9 +28,9 @@ The new built-in slide approval feature makes it easy for reviewers to identify 
  
 ### Audit trail of PowerPoint slide approval
 
-The process of watermarking and approving edited slides creates a clear audit trail for financial promotions presentations. The name of the approver plus the date and time of sign-off is automatically added to the metadata for each slide to capture an audit trail for regulators like the Financial Conduct Authority (FCA). As a result, time spent checking slides is radically reduced. 
+The process of watermarking and approving edited slides creates a clear audit trail for financial promotions presentations. The name of the approver plus the date and time of sign-off is automatically added to the metadata for each slide to capture an audit trail for regulators like the [Financial Conduct Authority (FCA).](http://www.fca.org.uk/) As a result, time spent checking slides is radically reduced. 
  
-We have created a short overview video of the enhancements but if you’d like to see all the features in action, please contact us at: solutions@perivan.co.uk or call 020 7562 2222. 
+We have created a short overview video of the enhancements but if you’d like to see all the features in action, please contact us at: [solutions@perivan.co.uk](mailto:solutions@perivan.co.uk) or call 020 7562 2222. 
 
 ### How to track changes in PowerPoint
 
