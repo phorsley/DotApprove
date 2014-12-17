@@ -2,6 +2,7 @@
 layout: post
 title: Compliance issues affecting the UK wealth management industry
 author: Steve Coleman
+redirect_from: /blog/item/45-compliance-issues-affecting-the-uk-wealth-management-industry/
 ---
 At the Wealth Management Business Performance event - sponsored by DotApprove -
 ComPeer released their latest report on the UK’s wealth management

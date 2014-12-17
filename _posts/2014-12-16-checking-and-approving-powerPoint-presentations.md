@@ -13,7 +13,7 @@ There aren’t many marketing or compliance professionals who would choose to sp
 
 ### RightSlide presentation management software enhancement
 
-We’re delighted to announce an enhancement to our [RightSlide presentation management software]({{ site.url }}/publishing-tools/rightslide.html) that relieves this burden. You can now add “Draft” watermarks to new or edited slides making it easy to identify content that requires approval and prevent non-approved slides being sneaked into presentations.
+We’re delighted to announce an enhancement to our [RightSlide presentation management software]({{ site.url }}/publishing-tools/rightslide/) that relieves this burden. You can now add “Draft” watermarks to new or edited slides making it easy to identify content that requires approval and prevent non-approved slides being sneaked into presentations.
 
 Each slide in RightSlide now can be created in one of four ways:
 

@@ -2,6 +2,7 @@
 layout: post
 title: 'Consumer credit regulation: what’s changing and how will it affect you?'
 author: Daniella
+redirect_from: /blog/item/38-consumer-credit-regulation-what-s-changing-and-what-do-the-changes-mean-for-you/
 ---
 The countdown to the transfer of consumer credit regulation is gathering pace.
 FCA Chief Operating Officer, Leslie Titcomb announced: "Over 31,000 firms have

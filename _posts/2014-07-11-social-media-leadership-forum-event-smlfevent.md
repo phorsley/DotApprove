@@ -2,6 +2,7 @@
 layout: post
 title: Social Media Leadership Forum #smlfevent
 author: Steve Coleman
+redirect_from: /blog/item/46-social-media-leadership-forum-event-smlf/
 ---
 Financial services professionals attending the SMLF event seeking clear
 guidance from the FCA on the use of social media will have left disappointed.

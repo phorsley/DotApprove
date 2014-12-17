@@ -2,6 +2,7 @@
 layout: post
 title: Approving blogs and LinkedIn profiles
 author: Steve Coleman
+redirect_from: /blog/item/27-approving-blogs-and-linkedin-profiles/
 ---
 We’re pleased to announce that DotApprove has been extended to give companies
 the tools they need to approve and archive blog posts and employee LinkedIn

@@ -2,6 +2,7 @@
 layout: post
 title: FCA confirms new rules for the consumer credit market
 author: Steve Coleman
+redirect_from: /blog/item/39-fca-confirms-new-rules-for-the-consumer-credit-market/
 ---
 In announcing the final rules that will govern the consumer credit market, the
 FCA has shown it means business. Payday lenders and consumer credit companies

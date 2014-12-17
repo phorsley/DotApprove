@@ -2,6 +2,7 @@
 layout: post
 title: FCA has fined firms at seven times the rate of the FSA
 author: Steve Coleman
+redirect_from: /blog/item/40-fca-has-fined-firms-at-seven-times-the-rate-of-the-fsa/
 ---
 The FCA promised to take a tougher stance with companies that don’t adhere to
 their rules and it’s done so, fining miscreants at seven times the rate the FSA

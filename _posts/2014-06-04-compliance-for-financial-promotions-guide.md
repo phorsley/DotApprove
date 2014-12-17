@@ -2,6 +2,7 @@
 layout: post
 title: Compliance for financial promotions – a marketing guide
 author: Steve Coleman
+redirect_from: /blog/item/43-compliance-for-financial-promotions-a-marketing-guide/
 ---
 Anyone who works in marketing for a regulated industry, such as financial
 services, needs to understand the importance of compliance.

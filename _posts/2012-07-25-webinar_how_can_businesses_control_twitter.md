@@ -2,6 +2,9 @@
 layout: post
 title: Webinar&#58; How can businesses control twitter?
 author: Steve Coleman
+redirect_from:
+  - /blog/item/24-webinar-how-can-businesses-control-twitter-2/
+  - /blog/item/23-webinar-how-can-businesses-control-twitter/
 ---
 We had such a great response and feedback to our first webinar so we have
 decided to run two more!

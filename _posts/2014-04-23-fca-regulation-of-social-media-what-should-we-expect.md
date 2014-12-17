@@ -2,6 +2,7 @@
 layout: post
 title: FCA regulation of social media – what should we expect?
 author: Steve Coleman
+redirect_from: /blog/item/41-fca-regulation-of-social-media-what-should-we-expect/
 ---
 The Financial Conduct Authority (FCA) was due to publish new regulatory
 guidance on the use of social media in the first quarter of 2014. So far, this

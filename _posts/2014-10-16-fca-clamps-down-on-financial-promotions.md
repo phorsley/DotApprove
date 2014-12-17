@@ -2,6 +2,7 @@
 layout: post
 title: The FCA clamps down on financial promotions – huge increase in regulator’s interventions 
 author: Steve Coleman
+redirect_from: /blog/item/48-the-fca-clamps-down-on-financial-promotions-huge-increase-in-regulator-s-interventions/
 ---
 This week, the FCA has been shown to be taking an increasingly tough stance on
 financial promotions.

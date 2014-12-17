@@ -2,6 +2,7 @@
 layout: post
 title: Wealth Management Business Performance event – 24th June
 author: Steve Coleman
+redirect_from: /blog/item/44-wealth-management-business-performance-event-24th-june/
 ---
 On 24th June, we’re sponsoring ComPeer Limited’s event on Wealth Management
 Business Performance.

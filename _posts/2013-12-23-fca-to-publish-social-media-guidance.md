@@ -2,6 +2,7 @@
 layout: post
 title: FCA to publish social media guidance
 author: Daniella
+redirect_from: /blog/item/37-fca-to-publish-social-media-guidance/
 ---
 After months of waiting, the FCA has confirmed that it will be publishing
 social media guidance in the first quarter of 2014. The announcement will come

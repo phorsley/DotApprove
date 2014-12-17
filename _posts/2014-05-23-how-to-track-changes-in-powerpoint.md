@@ -2,6 +2,7 @@
 layout: post
 title: How to track changes in PowerPoint
 author: Steve Coleman
+redirect_from: /blog/item/42-how-to-track-changes-in-powerpoint/
 ---
 Did you know that you can add comments and compare slides in PowerPoint? When
 we ask this question at our training sessions, 9 times out of 10 the response

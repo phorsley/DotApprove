@@ -2,6 +2,7 @@
 layout: post
 title: Urgent clarity needed on FSA's trail commission stance
 author: Steve Coleman
+redirect_from: /blog/item/16-urgent-clarity-needed-on-fsas-trail-commission-stance/
 ---
 The FSA has been warned by industry figures that it must urgently address
 confusion over the future of trail commission payments.

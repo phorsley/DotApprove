@@ -2,6 +2,7 @@
 layout: post
 title: FCA publishes updated guidance on social media regulations, and asks for feedback 
 author: Steve Coleman
+redirect_from: /blog/item/47-fca-publishes-updated-guidance-on-social-media-regulations-and-asks-for-feedback/
 ---
 The FCA has published its long-awaited update on social media for financial
 promotions.

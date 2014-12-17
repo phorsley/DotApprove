@@ -2,6 +2,7 @@
 layout: post
 title: Ever-increasing regulation is boosting compliance careers
 author: Steve Coleman
+redirect_from: /blog/item/17-ever-increasing-regulation-is-boosting-compliance-careers-2/
 ---
 Prior to the financial crisis the term compliance was taboo when trying to get
 the best candidates. Now the value of the role has risen beyond recognition.

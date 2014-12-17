@@ -2,6 +2,7 @@
 layout: post
 title: The FCA is getting tough
 author: Daniella
+redirect_from: /blog/item/36-fca-tough/
 ---
 Events of the past few months have made it clear that the Financial Conduct
 Authority (FCA) is getting serious.  Perhaps keen to demonstrate that they will

@@ -2,6 +2,7 @@
 layout: post
 title: Virtualboardroom in South Africa
 author: Steve Coleman
+redirect_from: /blog/item/22-virtualboardroom-in-south-africa/
 ---
 The Virtualboardroom World tour has now reached South Africa following trips to
 Switzerland, Holland and Cayman Isles earlier this year. Robin Bishop and

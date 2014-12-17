@@ -2,6 +2,7 @@
 layout: post
 title: Happy Chinese New Year!
 author: Daniella
+redirect_from: /blog/item/29-happy-chinese-new-year/
 ---
 2013 welcomes the Year of the Snake, which is the sixth sign of the Zodiac. It
 will be the busiest time of the Year for many businesses and predicted to be

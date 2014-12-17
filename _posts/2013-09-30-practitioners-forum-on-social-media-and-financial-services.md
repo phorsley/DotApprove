@@ -2,6 +2,7 @@
 layout: post
 title: Practitioners Forum on Social Media & Financial Services
 author: Daniella
+redirect_from: /blog/item/35-practitioners-forum-on-social-media-financial-services/
 ---
 If social marketing is about content then the 2013 industry practitioners forum
 on social media & financial services managed to squeeze a lot into one day.
