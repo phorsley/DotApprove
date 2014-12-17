@@ -79,3 +79,5 @@ about DotApprove. Call {% include nowrap.html content='020 7562 2210,' %} email
 
 <sup>1</sup> Wealth Management Business Performance 2014, ComPeer Limited  
 <sup>2</sup> The Compliance Tsunami March 2014, ComPeer Limited
+
+<iframe src="http://analytics.clickdimensions.com/perivancouk-ack2m/pages/dblwcprbeeod6nidz2pt3a.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>

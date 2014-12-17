@@ -40,3 +40,5 @@ amendments.
 
 We will shortly be adding a free guide to creating perfect charts in PowerPoint
 so please revisit our blog to download a copy.
+
+<iframe src="http://analytics.clickdimensions.com/perivancouk-ack2m/pages/froczeateeoznidz2oo6a.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
