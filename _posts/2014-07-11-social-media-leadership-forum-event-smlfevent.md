@@ -60,3 +60,5 @@ If you need assistance managing the compliance of your social media,
 particularly capturing an archive and audit trail then please contact us to
 discuss how DotApprove can help you.
 {% include email.html email='solutions@perivan.co.uk' punct=',' %} {% include nowrap.html content='020 7562 2255.' %}
+
+{% include offers/twitter-financial-promotions.html %}

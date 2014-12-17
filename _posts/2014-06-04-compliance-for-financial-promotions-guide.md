@@ -52,3 +52,5 @@ All of these topics and more are covered in The Marketing Guide to Compliance,
 which you can download for free by entering your details below:
 
 <iframe src="http://analytics.clickdimensions.com/perivancouk-ack2m/pages/mv6ppekreeoznidz2oo6a.html" allowtransparency="true" width="100%" height="400px" type="text/html" frameborder="0" style="border:0"></iframe>
+
+{% include offers/marketing-guide-to-compliance.html %}

@@ -37,3 +37,5 @@ We have created a short overview video of the enhancements but if you’d like t
 You may also be interested in our free guide to tracking changes in PowerPoint, which will help further improve your review process and enable you to keep an audit trail of all comments and changes.
 
 <iframe src="http://analytics.clickdimensions.com/perivancouk-ack2m/pages/froczeateeoznidz2oo6a.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
+
+{% include offers/powerpoint-track-changes.html %}

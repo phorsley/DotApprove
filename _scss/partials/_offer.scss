@@ -1,4 +1,4 @@
-.page__aside__related {
+.offer {
   @include clearfix();
 
   background-color: $col-nav-dropdown;
@@ -23,7 +23,7 @@
     float: left;
   }
 
-  .page__aside__dl-button {
+  .offer__button {
     background-color: $col-primary;
     border-radius: $corner-radius;
     float: right;
