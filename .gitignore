@@ -2,3 +2,4 @@
 .sass-cache/*
 _site
 !*.gitkeep
+link-checker-crawled-pages.pstore

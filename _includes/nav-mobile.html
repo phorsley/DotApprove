@@ -3,8 +3,8 @@
     <option value="">Navigate the site…</option>
     <optgroup label="{{ site.title }}">
       <option value="{{ site.url }}">Home</option>
-      <option value="{{ site.url }}/news/index.html">News &amp; Views</option>
-      <option value="{{ site.url }}/contact-us.html">Contact us</option>
+      <option value="{{ site.url }}/news/">News &amp; Views</option>
+      <option value="{{ site.url }}/contact-us/">Contact us</option>
 {% for section in nav-sections %}
     <optgroup label="{{ section }}">{% for page in site.pages %}{% if page.nav-section == section %}
       <option value="{{ site.url }}{{ page.url }}">{{ page.title }}</option>{% endif %}{% endfor %}

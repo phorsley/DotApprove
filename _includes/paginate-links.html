@@ -1,8 +1,8 @@
 <nav class="pagination-links">
   {% if paginator.previous_page %}
-  <a href="{{ site.url }}/news/index.html">First</a>
+  <a href="{{ site.url }}/news/">First</a>
     {% if paginator.page == 2 %}
-  <a href="{{ site.url }}/news/index.html">Prev</a>
+  <a href="{{ site.url }}/news/">Prev</a>
     {% else %}
   <a href="{{ site.url }}/news/{{ paginator.previous_page }}">Prev</a>
     {% endif %}
