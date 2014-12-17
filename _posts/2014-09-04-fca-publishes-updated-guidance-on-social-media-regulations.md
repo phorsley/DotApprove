@@ -93,3 +93,5 @@ compliance, please get in touch with us at
 {% include email.html email='solutions@perivan.co.uk' punct=',' %} {% include nowrap.html content='020 7562 2222.' %} While we await the
 announcement, download our top 10 best practices for financial firms and
 advisers using Twitter by completing the form below:
+
+<iframe src="http://analytics.clickdimensions.com/perivancouk-ack2m/pages/gogkvdoceesz32w75b7lja.html" allowtransparency="true" width="100%" height="300px" type="text/html" frameborder="0" style="border:0" scrolling="no"></iframe>
