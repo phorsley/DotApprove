@@ -81,9 +81,9 @@ regulations.
 
 If you would like to know more about how DotApprove could ensure the compliance
 of your social media activity, now and into the future, please contact us on
-{% include nowrap.html content='020 7562 2210' %} or complete the form below.
-We can show you how DotApprove can streamline your approvals processes, ensure
-robust compliance procedures, and make all of your marketing more efficient.
+{% include nowrap.html content='020 7562 2210' %}. We can show you how
+DotApprove can streamline your approvals processes, ensure robust compliance
+procedures, and make all of your marketing more efficient.
 
 <sup>1</sup> Financial Promotions using New Media – FSA, June 2010  
 <sup>2</sup> Over 200 financial promotions withdrawn or amended by the FCA in
@@ -91,6 +91,4 @@ the last year­ – press release, Bovill, November 2013
 <sup>3</sup> Industry practitioners’ forum on social media & financial
 services, September 2013  
 
-<iframe src="http://web.dotapprove.co.uk/perivancouk-ack2m/pages/rxfny0fqeeo3qzxkktvymq.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
-
-{% include offers/powerpoint-track-changes.html %}
+{% include offers/twitter-financial-promotions.html %}

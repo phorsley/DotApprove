@@ -8,7 +8,7 @@
   padding: 1em 2em;
 
   h2 {
-    text-align: center;
+    color: $col-primary;
   }
 
   p {
@@ -21,6 +21,8 @@
 
   img {
     float: left;
+    margin: 10px 10px 10px 0;
+    max-width: 150px;
   }
 
   .offer__button {
