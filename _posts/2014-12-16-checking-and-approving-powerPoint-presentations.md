@@ -15,7 +15,7 @@ There aren’t many marketing or compliance professionals who would choose to sp
 
 We’re delighted to announce an enhancement to our [RightSlide presentation management software]({{ site.url }}/publishing-tools/rightslide/) that relieves this burden. You can now add “Draft” watermarks to new or edited slides making it easy to identify content that requires approval and prevent non-approved slides being sneaked into presentations.
 
-Each slide in RightSlide now can be created in one of four ways:
+Each slide in RightSlide can be created in one of four ways:
 
 1.	Fully editable – anyone can edit: suitable for slides that don’t require approval such as cover slides
 2.	Editable with watermark –  anyone can edit, but a ‘Draft’ watermark appears on the slide, forcing the presenter  to get any new content approved
